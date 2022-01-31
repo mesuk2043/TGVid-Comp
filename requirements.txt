@@ -2,6 +2,5 @@ aiohttp
 python-decouple
 pyaesni
 psutil
-speedtest-cli
 telethon
 html_telegraph_poster
