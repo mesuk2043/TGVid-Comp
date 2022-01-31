@@ -26,5 +26,5 @@ Add in [@BotFather](https://t.me/BotFather)
     renew - Clear Cached Downloads, Queue etc
     clear - Clear Queued Files
     showthumb - Show Current Thumbnail
-    speed - Do A test
+    speed - Waste you Time 
     cmds - List Available Commands
